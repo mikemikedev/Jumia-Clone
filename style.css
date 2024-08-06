@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+}
+#header{
+    background-color: red;
+    height: 100px;
+}
+#main{
+    background-color: blue;
+    height: 2000px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+.footer{
+    background-color: grey;
+    height: 700px;
+}
